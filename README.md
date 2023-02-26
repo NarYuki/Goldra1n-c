@@ -1,4 +1,4 @@
-<img align="left" height="120" src="goldrainicon.png" alt="goldra1n logo" style="float: left;"/>
+<img align="left" height="120" src="gl.png" alt="goldra1n logo" style="float: left;"/>
 <h3 align="right">An iOS 15.0-16.3 work-in-progress, <br>semi-tethered checkm8 iCloud Bypass and jailbreak</h3> 
 
 <p  align="right" >
